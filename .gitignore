@@ -26,8 +26,5 @@ yarn-error.log*
 
 # firebase
 .firebase
-=======
-.
-node_modules
->>>>>>> master
+
 node_modules
